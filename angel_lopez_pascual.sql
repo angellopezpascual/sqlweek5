@@ -1,8 +1,4 @@
-#EJERCICCIOS FIN DE SEMANA 
-
-#Caclula usando subqueries: Importe medio por carrito y total de items, por año-mes, realizados en los años 2004 y 2005, 
-	#por clientes asistidos por los empleados de la familia Patterson.
-    
+#Calcula usando subqueries: Importe medio por carrito y total de items, por año-mes, realizados en los años 2004 y 2005, por clientes asistidos por los empleados de la familia Patterson.    
   
 SELECT cust2.salesRepEmployeeNumber, employeeNumber
 from employees as empl
